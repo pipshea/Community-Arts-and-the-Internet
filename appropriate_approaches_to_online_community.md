@@ -7,8 +7,8 @@
 ---
 ###1. Longevity: the network's shelf life
 Although it’s difficult to know how long your network might flourish, estimating how long it will remain in use is something to consider. The proposed life span of the network will help determine suitable technological solutions, based on such things as software stability and ongoing costs.
-Understanding the social implications of both temporary and ongoing networks is also important. In some situations, there will be a minimal impact if a network is there one day and gone the next; but in others, this might affect whether the project has a lasting impact.
-Practitioners should also bear in mind that network participation will ebb and flow. In other words, participants will bail out of the network, so consider it an acceptable form of action to plan for (Lovink 2005, p12).
+Understanding the social implications of both temporary and ongoing networks is also important. In some situations, there will be a minimal impact if a network is there one day and gone the next; but in others, this might affect whether the project has a lasting impact.
+Practitioners should also bear in mind that network participation will ebb and flow. In other words, participants will bail out of the network, so consider it an acceptable form of action to plan for (Lovink 2005, p12).
 **An example might be:**
 Community artist Fatima is about to lead a Scratch project with a group of 14 year old girls (Scratch is a programming language that makes it easy to create interactive media). Fatima wants there to be an online community aspect to the project so the girls can share the media they make, then rate and comment on their peers’ work. Fatima decides to use the existing Scratch online community for her project, as she feels the girls have a level of creative agency that will enable them to become involved in a wider media sharing network. She is aware this ‘community’ might be temporary, but is confident this will not have a negative impact on the individuals involved.
 **Questions to ask yourself:**
@@ -59,5 +59,11 @@ Network governance – this concept may sound dull, but it is an important aspec
 This booklet‘s approach to online community building as a creative activity involving a conceptual inquiry, guides practitioners beyond existing or dominant ways of thinking, helping them preempt issues and articulate appropriate approaches - the lasting effect of this method being that practitioners become more willing to reflect on their actions and motivations, and more open to designing collaborative systems that are “an artful fit between technique, tool, human, moral, and environmental limits” (Drengson 1982).
 ---
 ####References
-1. Bacon, J. 2009. The Art of Community. Sebastopol, California: O'Reilly Media 2. Drengson, A. R. 1982. Four Philosophies of Technology. Philosophy Today 26 (2):103.3. Gasser, U. and J. Palfrey. 2007. When and How ICT Interoperability Drives Innovation, Breaking Down Digital Barriers: The Berkman Centre for Internet and Society at Harvard Law School and The University of St. Gallen.4. Hearn, G. N. and M. Foth. 2007. Communicative Ecologies: Editorial Preface. Electronic Journal of Communication 17:1-2.5. Lovink, G. 2005. The Principle of Notworking: Concepts in Critical Internet Culture. Amsterdam: HVA Publicaties.6. Von Busch, O. and K. Palmas. 2006. Abstract Hacktivism: The Making of a Hacker Culture. London and Istanbul: In collaboration with OPENMUTE.org.
+1. Bacon, J. 2009. **The Art of Community**. Sebastopol, California: O'Reilly Media 
+
+2. Drengson, A. R. 1982. **Four Philosophies of Technology**. Philosophy Today 26 (2):103.
+3. Gasser, U. and J. Palfrey. 2007. **When and How ICT Interoperability Drives Innovation, Breaking Down Digital Barriers**: The Berkman Centre for Internet and Society at Harvard Law School and The University of St. Gallen.
+4. Hearn, G. N. and M. Foth. 2007. **Communicative Ecologies**: Editorial Preface. Electronic Journal of Communication 17:1-2.
+5. Lovink, G. 2005. **The Principle of Notworking: Concepts in Critical Internet Culture**. Amsterdam: HVA Publicaties.
+6. Von Busch, O. and K. Palmas. 2006. **Abstract Hacktivism: The Making of a Hacker Culture**. London and Istanbul: In collaboration with OPENMUTE.org.
 
