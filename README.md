@@ -1,5 +1,3 @@
-#README
-
 ##Community Arts & the Internet Field Guides
 
 ####Created by [Pip Shea](http://www.pipshea.com) + Inspired by [CuriousWorks](http://www.curiousworks.com.au)
